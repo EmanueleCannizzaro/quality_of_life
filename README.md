@@ -3,7 +3,7 @@
 ## Overview
 This interactive dashboard visualizes the "Qualità della Vita 2024" (Quality of Life 2024) dataset from Il Sole 24 ORE, which ranks Italian provinces based on various quality of life indicators. The dashboard provides an intuitive interface for exploring and comparing different quality of life metrics across Italian provinces.
 
-![dashboard.png](dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Data Source
 The data is sourced from Il Sole 24 ORE's annual survey ([GitHub Repository](https://github.com/IlSole24ORE)), representing the 35th edition of their traditional annual ranking that evaluates Italian provinces based on various quality of life indicators.
